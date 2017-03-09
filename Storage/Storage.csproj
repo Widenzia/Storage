@@ -216,7 +216,6 @@
     <Content Include="Views\Products\Lighting.cshtml" />
     <Content Include="Views\Products\OutOfStock.cshtml" />
     <Content Include="Views\Products\Summary.cshtml" />
-    <Content Include="Views\Products\SummaryPart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
